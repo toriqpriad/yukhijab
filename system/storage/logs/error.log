@@ -1,0 +1,19 @@
+2016-04-19 5:06:23 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:06:23 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:06:23 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:06:23 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:06:52 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:06:52 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:06:52 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:06:52 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:07:06 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:07:06 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:07:06 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-04-19 5:07:06 - PHP Notice:  Undefined variable: infos in /home/u493383968/public_html/op/catalog/view/theme/default/template/common/header.tpl on line 129
+2016-05-08 16:07:36 - PHP Notice:  Use of undefined constant HTTPS_SERVER - assumed 'HTTPS_SERVER' in /home/u165875309/public_html/admin/controller/common/login.php on line 17
+2016-05-13 7:29:12 - PHP Notice:  Use of undefined constant HTTPS_SERVER - assumed 'HTTPS_SERVER' in /home/u165875309/public_html/admin/controller/common/login.php on line 17
+2016-05-19 15:51:55 - PHP Notice:  Use of undefined constant HTTPS_SERVER - assumed 'HTTPS_SERVER' in /home/u165875309/public_html/admin/controller/common/login.php on line 17
+2016-05-25 0:58:43 - PHP Notice:  Use of undefined constant HTTPS_SERVER - assumed 'HTTPS_SERVER' in /home/u165875309/public_html/admin/controller/common/login.php on line 17
+2016-06-01 13:41:33 - PHP Notice:  Use of undefined constant HTTPS_SERVER - assumed 'HTTPS_SERVER' in /home/u165875309/public_html/admin/controller/common/login.php on line 17
+2016-06-13 11:17:37 - PHP Notice:  Use of undefined constant HTTPS_SERVER - assumed 'HTTPS_SERVER' in /home/u165875309/public_html/admin/controller/common/login.php on line 17
+2016-10-18 16:39:38 - PHP Notice:  Use of undefined constant HTTPS_SERVER - assumed 'HTTPS_SERVER' in /home/u165875309/public_html/admin/controller/common/login.php on line 17
